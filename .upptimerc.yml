@@ -5,6 +5,8 @@ repo: boldlight-upptime-test # The name of this repository
 sites:
   - name: WDC Intermediary Database Interface
     url: https://wdc-interface.uksouth.cloudapp.azure.com/status
+    assignees:
+      - alice-e-still
     expectedStatusCodes:
       - 200
   
@@ -13,9 +15,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /boldlight-upptime-test
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Boldlight Upptime test
+  name: Boldlight Upptime Test
   introTitle: Boldlight Upptime Test
   introMessage: Testing
   navbar:
