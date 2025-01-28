@@ -1,22 +1,22 @@
 [
   {
     "name": "WDC Intermediary Database Interface",
-    "url": "https://wdc-interface.uksouth.cloudapp.azure.com/wdc_idb_live/",
+    "url": "https://wdc-interface.uksouth.cloudapp.azure.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/wdc-interface.uksouth.cloudapp.azure.com.ico",
     "slug": "wdc-intermediary-database-interface",
-    "status": "down",
-    "uptime": "0.25%",
-    "uptimeDay": "0.25%",
-    "uptimeWeek": "0.25%",
-    "uptimeMonth": "0.25%",
-    "uptimeYear": "0.25%",
-    "time": 366,
-    "timeDay": 366,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "status": "up",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 336,
+    "timeDay": 336,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {
-      "2025-01-28": 6
+      "2025-01-28": 65
     }
   }
 ]
