@@ -9,7 +9,12 @@ sites:
       - alice-e-still
     expectedStatusCodes:
       - 200
-  
+  - name: Altyn Dala
+    url: https://altyndala.org
+  - name: ARUK
+    url: https://www.alzheimersresearchuk.org
+  - name: Back from the Brink
+    url: https://naturebftb.co.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
