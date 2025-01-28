@@ -15,7 +15,75 @@ sites:
     url: https://www.alzheimersresearchuk.org
   - name: Back from the Brink
     url: https://naturebftb.co.uk
-
+  - name: Dynamic Dunescapes
+    url: https://dynamicdunescapes.co.uk
+  - name: Farm Wildlife
+    url: https://farmwildlife.info
+  - name: KRUK
+    url: https://kidneyresearchuk.org
+  - name: Little Tern Project
+    url: https://littleternproject.org.uk
+  - name: After Minernals
+    url: https://afterminerals.com
+  - name: Project Godwit
+    url: https://projectgodwit.org.uk
+  - name: Save Our Seabed
+    url: https://saveourseabed.co.uk
+  - name: RSPB BAI Hub
+    url: https://baihub.rspb.org.uk
+  - name: Save Vultures
+    url: https://save-vultures.org
+  - name: Rething Nature
+    url: https://rethinknature.co.uk
+  - name: Upper & Bedford Ouse Catchment Partnership
+    url: https://ubocp.org.uk
+  - name: Visit Sherwood
+    url: https://visitsherwood.co.uk
+  - name: RSPB Wild Challence
+    url: https://wildchallenge.rspb.org.uk
+  - name: For Baby's Sake
+    url: https://forbabyssake.org.uk
+  - name: Cats Protection Audiences
+    url: https://audiences.cats.org.uk
+  - name: Parkrun (Donate)
+    url: https://donate.parkrun.com
+  - name: Nurture BioBank
+    url: https://nurturebiobank.org
+  - name: WDC
+    url: https://whales.org
+  - name: Edon Initiative
+    url: https://edon-initiative.org
+  - name: Curlew Life
+    url: https://curlewlife.org
+  - name: Restor BCR
+    url: https://restore-bcr.co.uk
+  - name: Atlantic Guardians
+    url: https://atlanticguardians.org
+  - name: MAGPAS
+    url: https://magpas.org.uk
+  - name: NerdFest
+    url: https://nerdfest.org.uk
+  - name: Ring Ouzel
+    url: https://ringouzel.info
+  - name: Ethiopiaid (UK)
+    url: https://ethiopiaid.org.uk
+  - name: Ethiopiaid (Ireland)
+    url: https://ethiopiaid.ie
+  - name: RSPB Groups
+    url: https://group.rspb.org.uk/bedford/
+  - name: Boldlight Site
+    url: https://boldlight.co.uk
+  - name: Boldlight Studio
+    url: https://boldlight.studio
+  - name: Boldlight Team
+    url: https://boldlight.team
+  - name: Boldlight Wiki
+    url: https://boldlight.wiki
+  - name: Smyth Accountants
+    url: https://smythaccountants.co.uk
+  - name: Sky Badger
+    url: https://skybadger.co.uk
+ 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
