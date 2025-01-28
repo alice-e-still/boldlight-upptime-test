@@ -83,7 +83,8 @@ sites:
     url: https://smythaccountants.co.uk
   - name: Sky Badger
     url: https://skybadger.co.uk
- 
+assignees:
+  - alice-e-still 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
