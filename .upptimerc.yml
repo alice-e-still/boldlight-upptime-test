@@ -4,8 +4,9 @@ repo: boldlight-upptime-test # The name of this repository
 
 sites:
   - name: WDC Intermediary Database Interface
-    url: https://wdc-interface.uksouth.cloudapp.azure.com/wdc_idb_live/
-    check: "tcp-ping"
+    url: https://wdc-interface.uksouth.cloudapp.azure.com/status
+    expectedStatusCodes:
+      - 200
   
 
 status-website:
