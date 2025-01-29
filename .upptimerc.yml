@@ -11,78 +11,116 @@ sites:
       - 200
   - name: Altyn Dala
     url: https://altyndala.org
+    maxResponseTime: 8000
   - name: ARUK
     url: https://www.alzheimersresearchuk.org
+    maxResponseTime: 8000
   - name: Back from the Brink
     url: https://naturebftb.co.uk
+    maxResponseTime: 8000
   - name: Dynamic Dunescapes
     url: https://dynamicdunescapes.co.uk
+    maxResponseTime: 8000
   - name: Farm Wildlife
     url: https://farmwildlife.info
+    maxResponseTime: 8000
   - name: KRUK
     url: https://kidneyresearchuk.org
+    maxResponseTime: 8000
   - name: Little Tern Project
     url: https://littleternproject.org.uk
+    maxResponseTime: 8000
   - name: After Minerals
     url: https://afterminerals.com
+    maxResponseTime: 8000
   - name: Project Godwit
     url: https://projectgodwit.org.uk
+    maxResponseTime: 8000
   - name: Save Our Seabed
     url: https://saveourseabed.co.uk
+    maxResponseTime: 8000
   - name: RSPB BAI Hub
     url: https://baihub.rspb.org.uk
+    maxResponseTime: 8000
   - name: Save Vultures
     url: https://save-vultures.org
+    maxResponseTime: 8000
   - name: Rethink Nature
     url: https://rethinknature.co.uk
+    maxResponseTime: 8000
   - name: Upper & Bedford Ouse Catchment Partnership
     url: https://ubocp.org.uk
+    maxResponseTime: 8000
   - name: Visit Sherwood
     url: https://visitsherwood.co.uk
+    maxResponseTime: 8000
   - name: RSPB Wild Challence
     url: https://wildchallenge.rspb.org.uk
+    maxResponseTime: 8000
   - name: For Baby's Sake
     url: https://forbabyssake.org.uk
+    maxResponseTime: 8000
   - name: Cats Protection Audiences
     url: https://audiences.cats.org.uk
+    maxResponseTime: 8000
   - name: Parkrun (Donate)
     url: https://donate.parkrun.com
+    maxResponseTime: 8000
   - name: Nurture BioBank
     url: https://nurturebiobank.org
+    maxResponseTime: 8000
   - name: WDC
     url: https://whales.org
+    maxResponseTime: 8000
   - name: Edon Initiative
     url: https://edon-initiative.org
+    maxResponseTime: 8000
   - name: Curlew Life
     url: https://curlewlife.org
+    maxResponseTime: 8000
   - name: Restore BCR
     url: https://restore-bcr.co.uk
+    maxResponseTime: 8000
   - name: Atlantic Guardians
     url: https://atlanticguardians.org
+    maxResponseTime: 8000
   - name: MAGPAS
     url: https://magpas.org.uk
+    maxResponseTime: 8000
   - name: NerdFest
     url: https://nerdfest.org.uk
+    maxResponseTime: 8000
   - name: Ring Ouzel
     url: https://ringouzel.info
+    maxResponseTime: 8000
   - name: Ethiopiaid (UK)
     url: https://ethiopiaid.org.uk
+    maxResponseTime: 8000
   - name: Ethiopiaid (Ireland)
     url: https://ethiopiaid.ie
+    maxResponseTime: 8000
   - name: RSPB Groups
     url: https://group.rspb.org.uk/bedford/
+    maxResponseTime: 8000
   - name: Boldlight Site
     url: https://boldlight.co.uk
+    maxResponseTime: 8000
   - name: Boldlight Studio
     url: https://boldlight.studio
+    maxResponseTime: 8000
   - name: Boldlight Team
     url: https://boldlight.team
+    maxResponseTime: 8000
   - name: Boldlight Wiki
     url: https://boldlight.wiki
+    maxResponseTime: 8000
   - name: Smyth Accountants
     url: https://smythaccountants.co.uk
+    maxResponseTime: 8000
   - name: Sky Badger
     url: https://skybadger.co.uk
+    maxResponseTime: 8000
+delay: 2000
 assignees:
   - alice-e-still 
 status-website:
@@ -99,6 +137,13 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
