@@ -1,7 +1,7 @@
 url: https://baihub.rspb.org.uk
-status: up
-code: 200
-responseTime: 1527
-lastUpdated: 2025-04-06T23:18:47.070Z
+status: down
+code: 503
+responseTime: 776
+lastUpdated: 2025-04-07T21:19:59.220Z
 startTime: 2025-01-28T12:34:11.474Z
 generator: Upptime <https://github.com/upptime/upptime>
