@@ -1,7 +1,7 @@
 url: https://edon-initiative.org
-status: up
-code: 200
-responseTime: 5587
-lastUpdated: 2026-01-19T23:12:32.247Z
+status: down
+code: 500
+responseTime: 7429
+lastUpdated: 2026-01-20T20:59:14.189Z
 startTime: 2025-01-28T12:34:27.365Z
 generator: Upptime <https://github.com/upptime/upptime>
