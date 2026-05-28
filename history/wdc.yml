@@ -1,7 +1,7 @@
 url: https://whales.org
-status: up
-code: 202
-responseTime: 535
-lastUpdated: 2026-05-27T23:53:55.925Z
+status: down
+code: 502
+responseTime: 764
+lastUpdated: 2026-05-28T13:44:31.672Z
 startTime: 2025-01-28T12:34:25.609Z
 generator: Upptime <https://github.com/upptime/upptime>
