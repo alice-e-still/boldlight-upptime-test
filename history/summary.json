@@ -926,16 +926,16 @@
     "url": "https://curlewlife.org",
     "icon": "https://icons.duckduckgo.com/ip3/curlewlife.org.ico",
     "slug": "curlew-life",
-    "status": "down",
+    "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "85.47%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "94.54%",
+    "uptimeDay": "84.87%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "96.93%",
     "time": 2658,
-    "timeDay": 5377,
-    "timeWeek": 7365,
-    "timeMonth": 8275,
+    "timeDay": 4836,
+    "timeWeek": 6974,
+    "timeMonth": 8167,
     "timeYear": 2915,
     "dailyMinutesDown": {
       "2026-04-17": 98,
@@ -1005,7 +1005,7 @@
       "2026-07-29": 273,
       "2026-07-30": 98,
       "2026-08-05": 187,
-      "2026-08-07": 209
+      "2026-08-07": 218
     }
   },
   {
@@ -1062,7 +1062,7 @@
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2026-01-01": 24,
-      "2026-08-07": 1223,
+      "2026-08-07": 1233,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -1535,9 +1535,9 @@
     "slug": "boldlight-wiki",
     "status": "up",
     "uptime": "96.72%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.96%",
     "time": 1354,
     "timeDay": 1936,
@@ -1555,8 +1555,7 @@
       "2026-05-06": 122,
       "2026-05-05": 19,
       "2026-07-31": 18,
-      "2026-08-04": 62,
-      "2026-08-07": 14
+      "2026-08-04": 62
     }
   },
   {
@@ -1566,9 +1565,9 @@
     "slug": "smyth-accountants",
     "status": "up",
     "uptime": "96.75%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "98.99%",
     "time": 804,
     "timeDay": 668,
@@ -1584,8 +1583,7 @@
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 19,
-      "2026-08-04": 57,
-      "2026-08-07": 9
+      "2026-08-04": 57
     }
   },
   {
@@ -1597,8 +1595,8 @@
     "uptime": "88.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.60%",
-    "uptimeYear": "86.25%",
+    "uptimeMonth": "16.58%",
+    "uptimeYear": "86.24%",
     "time": 1144,
     "timeDay": 213,
     "timeWeek": 233,
@@ -1634,7 +1632,7 @@
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1081,
-      "2026-08-07": 1223,
+      "2026-08-07": 1233,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
